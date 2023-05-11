@@ -1,0 +1,19 @@
+body {
+    background-color: #cd87fc;
+    color: rgb(19, 18, 18);
+    }
+    .cabecalho-imagem{
+        background-color: #383D58;
+color: white;
+display:flex;
+justify-content: space-around;  
+        width: 20%;
+        }
+        .cabecalho-imagem{
+            display: inline-block;}
+            *{margin: 0 16px;
+                justify-content: space-around;
+                padding: 24px 0;
+                font-size: 24px;
+            }
+       
